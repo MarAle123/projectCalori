@@ -35,6 +35,8 @@ for (int i = 0; i < 10; i++)
 
 }
 cout <<"Calories in foods = " << temp1 + temp2 + temp3;
+cout <<"You had eat well";
+cout <<"Calorie intake = 2000 to 2200";
 	system("pause");
 	return 0;
 }
